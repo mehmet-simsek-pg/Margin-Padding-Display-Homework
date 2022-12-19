@@ -1,0 +1,15 @@
+table {
+    background-color: rgb(247, 145, 162);
+}
+
+div {
+    background-color: rgb(18, 17, 17);
+    width: 30px;
+    height: 30px;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.right_side {
+    margin-left: 8rem;
+}

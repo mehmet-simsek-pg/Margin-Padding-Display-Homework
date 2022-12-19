@@ -1,0 +1,65 @@
+.app__navbar {
+  background-color: rgb(128, 128, 128);
+  width: 15rem;
+  height: 15rem;
+  margin: 2rem;
+}
+
+.open_menu {
+  background-color: rgb(235, 153, 2);
+  width: 25%;
+  height: 15rem;
+  float: left;
+}
+
+.emoji {
+  background-color: peru;
+}
+
+.secret_menu {
+  background-color: peru;
+}
+.open_menu .secret_menu,
+.open_menu ul {
+  display: none;
+}
+
+.fa-greater-than {
+  background-color: peru;
+  font-size: 2rem;
+  margin: 1rem;
+}
+
+.open_menu .emoji:hover .open_menu {
+  width: 75%;
+}
+
+ul {
+  list-style: none;
+  font-size: 1.2rem;
+  margin: 2rem 0;
+}
+
+.open_menu:hover .secret_menu,
+.open_menu:hover ul {
+  display: block;
+}
+
+.open_menu:hover .emoji {
+  display: none;
+}
+
+.open_menu:hover {
+  width: 75%;
+}
+
+.secret_menu-text {
+  text-align: center;
+  color: white;
+}
+
+.fa-less-than {
+  font-size: 2rem;
+  margin: 1rem;
+  color: black;
+}

@@ -1,0 +1,89 @@
+.app_box {
+  background-color: pink;
+  width: 80vw;
+  height: 22rem;
+}
+
+.box {
+  background-color: gray;
+  width: 45px;
+  height: 45px;
+}
+
+.box_1, 
+.box_2, 
+.box_3 {
+  float: left;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.box_4, 
+.box_5,
+.box_6 {
+  float: right;
+  margin-right: 2rem;
+  margin-top: 2rem;
+}
+
+.box_7 {
+  clear: left;
+
+  float: left;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.box_8 {
+  float: right;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+
+.box_9 {
+  clear: right;
+
+  float: left;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.box_10 {
+  float: left;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.box_11 {
+  float: right;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+
+.box_12 {
+  clear: right;
+
+  float: left;
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.box_13 {
+  float: right;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+
+.box_14 {
+  clear: right;
+
+  float: left;
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+
+.box_15 {
+  float: right;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
